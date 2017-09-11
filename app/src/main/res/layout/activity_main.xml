@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.emojis.meaning.emojisaurus.MainActivity">
+
+    <ListView android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/mainListView">
+    </ListView>
+    <!--<TextView-->
+    <!--android:id="@+id/smileys_people"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_smileys_people"-->
+    <!--android:text="@string/category_smileys_people"/>-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/animals_nature"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_animals_nature"-->
+    <!--android:text="@string/category_animals_nature" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/food_drink"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_food_drink"-->
+    <!--android:text="@string/category_food_drink" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/activities"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_activities"-->
+    <!--android:text="@string/category_activities" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/travel_places"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_travel_places"-->
+    <!--android:text="@string/category_travel_places" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/objects"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_objects"-->
+    <!--android:text="@string/category_objects" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/symbols"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_symbols"-->
+    <!--android:text="@string/category_symbols" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/flags"-->
+    <!--style="@style/CategoryStyle"-->
+    <!--android:background="@color/category_flags"-->
+    <!--android:text="@string/category_flags" />-->
+
+
+</LinearLayout>
