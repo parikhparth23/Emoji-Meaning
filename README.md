@@ -4,14 +4,22 @@ The app is available on Google Play Store: https://play.google.com/store/apps/de
 
 This app let you know the meaning of all the emojis.
 
-Categories
+Categories:
+
 😃 Smileys & People
+
 🐻 Animals & Nature
+
 🍔 Food & Drink
+
 ⚽ Activity
+
 🌇 Travel & Places
+
 💡 Objects
+
 🔣 Symbols
+
 🎌 Flags
 
 The app looks like:
