@@ -2,7 +2,7 @@
 
 The app is available on Google Play Store: https://play.google.com/store/apps/details?id=meaning.emoji.com.emojimeaning&hl=en
 
-This app let you know the meanong of all the emojis.
+This app let you know the meaning of all the emojis.
 
 Categories
 😃 Smileys & People
